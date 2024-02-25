@@ -1,4 +1,4 @@
-module sso-protos
+module github.com/Kndzhdn/sso-protos
 
 go 1.21
 
